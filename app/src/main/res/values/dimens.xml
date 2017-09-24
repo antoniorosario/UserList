@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="user_avatar_width">88dp</dimen>
+    <dimen name="user_avatar_height">88dp</dimen>
+    <dimen name="list_item_height">100dp</dimen>
+    <dimen name="spacing_normal">16dp</dimen>
+    <dimen name="spacing_none">0dp</dimen>
+
+    <!-- font sizes -->
+    <dimen name="font_medium">18sp</dimen>
+    <dimen name="font_small">14sp</dimen>
+</resources>

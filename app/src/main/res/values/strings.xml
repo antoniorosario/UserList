@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GeniusCodingChallenge</string>
+    <string name="new_user">New User</string>
+    <string name="user_title_label">User Info</string>
+    <string name="user_name_hint">User name</string>
+    <string name="user_bio_hint">User bio</string>
+    <string name="no_users">No saved users. Click the plus button to add a user.</string>
+    <string name="null_bio_string">No bio specified</string>
+    <string name="null_user_name_string">No user name specified</string>
+    <string name="permission_denied">Unable to upload without granting permission</string>
+</resources>
